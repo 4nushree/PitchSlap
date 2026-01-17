@@ -1,4 +1,4 @@
-st.write("APP LOADED")
+
 
 import streamlit as st
 import google.generativeai as genai
